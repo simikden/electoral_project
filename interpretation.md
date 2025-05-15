@@ -6,6 +6,8 @@ Block 2
 <img width="328" alt="image" src="https://github.com/user-attachments/assets/cd35c54e-a317-40f0-aa33-35b7051a33d7" />
 
 Block 3
+
+
 <img width="276" alt="image" src="https://github.com/user-attachments/assets/3793e466-f9f2-42e3-9456-580b8dc982ad" />
  
 1. Are there any statistically significant independent variables in the regression?
