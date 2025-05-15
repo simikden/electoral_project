@@ -63,6 +63,7 @@ Visualization:
 
 
 **5. Interaction effect**
+ 
  <img width="401" alt="image" src="https://github.com/user-attachments/assets/e0b75fb2-0a44-4a11-b950-e23e9b7a390d" />
 
 Brief interpretation: no interaction effect because p-value for “Share_inValid:Turnout”  is 0.375 > 0.05 so we can not reject the hypothesis 0  
