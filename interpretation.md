@@ -1,11 +1,8 @@
-WORD FILE I
-Maxim Gritsay
-Group 202
-Block 2
+## Block 2
  
 <img width="328" alt="image" src="https://github.com/user-attachments/assets/cd35c54e-a317-40f0-aa33-35b7051a33d7" />
 
-Block 3
+## Block 3
 
 
 <img width="276" alt="image" src="https://github.com/user-attachments/assets/3793e466-f9f2-42e3-9456-580b8dc982ad" />
@@ -24,7 +21,7 @@ p-value: 5.483e-12 < 0.05 so the model has predictive capability
 
 
 
-Block 4
+## Block 4
 1. Multicollinearity
 <img width="198" alt="image" src="https://github.com/user-attachments/assets/9dbad4e6-4ce2-41d5-9e56-675c1782a3db" />
  
@@ -57,9 +54,7 @@ Brief interpretation: no interaction effect because p-value for “Share_inValid
 
 
 
-WORD FILE II
-Maxim Gritsay
-202 group
+
 [Plot 1. Histograms combined in one line]  
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/d87ebb1b-7ee4-44fd-ad4c-07bed52d0bad" />
 
