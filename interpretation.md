@@ -55,22 +55,28 @@ Brief interpretation: no interaction effect because p-value for “Share_inValid
 
 
 
-[Plot 1. Histograms combined in one line]  
+## [Plot 1. Histograms combined in one line]  
+
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/d87ebb1b-7ee4-44fd-ad4c-07bed52d0bad" />
 
-[Plot 2. Graph combining boxplots]
+## [Plot 2. Graph combining boxplots]
+
  <img width="431" alt="image" src="https://github.com/user-attachments/assets/ec83bec6-5b4c-4102-9fa9-5c44fe2bef20" />
 
 
 
-[Plot 3. 5 unified scatterplots] 
+## [Plot 3. 5 unified scatterplots] 
+ 
  <img width="391" alt="image" src="https://github.com/user-attachments/assets/0753e1c8-44ca-40ed-9a28-a9bac2c26390" />
 
-[Plot 6. Q-Q plot]
+## [Plot 6. Q-Q plot]
+ 
  <img width="384" alt="image" src="https://github.com/user-attachments/assets/e9641bd4-7396-443f-b2d4-88feca1b2e3d" />
 
 Brief interpretation: we can assume about the presence of problem because of points which are out of the confidence field
-[Plot 7. crPlots]
- <img width="468" alt="image" src="https://github.com/user-attachments/assets/84d706f8-aea8-4fc3-823f-df1b8e1debf0" />
+
+## [Plot 7. crPlots]
+ 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/84d706f8-aea8-4fc3-823f-df1b8e1debf0" />
 
 Brief interpretation: trendlines are not matching so there might be a problem of non-linear relationship between the IV and DV
